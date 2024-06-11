@@ -145,6 +145,7 @@ a:hover {
   .hamburger-icon span:first-child {
     transform: none;
   }
+
 /* SECTIONS */
 section {
     padding-top: 4vh;
@@ -204,7 +205,6 @@ section {
   }
   
   /* ICONS */
-  
   .icon {
     cursor: pointer;
     height: 2rem;
